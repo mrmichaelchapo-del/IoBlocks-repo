@@ -45,7 +45,7 @@ Effects:
 - your UI text mutates into cursed symbols like:
 
 `
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ
+idk
 `
 
 This is why every modern site uses UTF‑8.
